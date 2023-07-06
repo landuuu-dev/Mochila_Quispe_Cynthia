@@ -1,0 +1,11 @@
+ip privada 
+inet addr:10.0.2.15
+
+ip publica 
+190.44.136.89 
+
+Mac 
+HWaddr 08:00:27:df:e4:ae
+
+hay diferencia entre la direccion ip de la maquina virtual y la direccion ip publica de la maquina virtual? 
+Si hay diferencia ya que la direccion privada fue diferente a la publica ademas las publica tambien se puede ver en paginas web o en sistema de la MV 
